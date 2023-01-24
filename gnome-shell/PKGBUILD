@@ -3,7 +3,7 @@
 # Contributor: Flamelab <panosfilip@gmail.com
 
 pkgname=gnome-shell
-pkgver=403.2
+pkgver=43.2
 pkgrel=1
 epoch=1
 pkgdesc="Next generation desktop shell"
