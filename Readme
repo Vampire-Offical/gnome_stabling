@@ -2,8 +2,6 @@
 makepkg --sign -s --clean
 
 
-#clone pkgs 
-https://raw.githubusercontent.com/archlinux/svntogit-packages/packages/gnome-{}/trunk/PKGBUILD
 
 
 #done
